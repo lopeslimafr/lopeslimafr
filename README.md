@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
 
 <p align="center">
-I'm Renato Lopes, a <strong>Software Engineer</strong> based in <i>Paris!</i>
+I'm a <strong>Software Engineer</strong> based in <i>Paris!</i>
 </p>
 
 <br><br><br>
