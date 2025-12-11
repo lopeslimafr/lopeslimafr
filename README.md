@@ -2,7 +2,7 @@
   I'm based in <i>Paris</i> and I currently focus on <strong>Python</strong> and its <strong>ecosystem.</strong>
 </p>
 
-<br><br>
+<br>
 <h3 align="center">Connect with me:</h3>
 
 <div align="center" style="display: inline-block">
